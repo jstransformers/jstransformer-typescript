@@ -1,0 +1,31 @@
+{
+  "name": "jstransformer-typescript",
+  "version": "0.0.1",
+  "description": "TypeScript support for JSTransformers.",
+  "keywords": [
+    "jstransformer"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "devDependencies": {
+    "test-jstransformer": "^1.0.0"
+  },
+  "scripts": {
+    "test": "test-jstransformer",
+    "coverage": "test-jstransformer coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jstransformers/jstransformer-typescript.git"
+  },
+  "author": {
+    "name": "JSTransformers Team",
+    "url": "http://github.com/orgs/jstransformers/people"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "extend": "^2.0.1",
+    "typescript": "^1.5.0-beta"
+  }
+}
