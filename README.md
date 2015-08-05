@@ -16,8 +16,8 @@
 ```js
 var ts = require('jstransformer')(require('jstransformer-typescript'))
 
-ts.render("let x: string  = 'string'").body
-//=> var x = 'string';
+ts.render("let x: string  = 'Hello, World!'").body
+//=> var x = 'Hello, World!';
 ```
 
 ## License

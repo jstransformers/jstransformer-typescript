@@ -1,7 +1,7 @@
 'use strict';
 
 var typescript = require('typescript');
-var extend = require('extend');
+var extend = require('extend-shallow');
 
 exports.name = 'typescript';
 exports.inputFormats = ['ts', 'typescript'];

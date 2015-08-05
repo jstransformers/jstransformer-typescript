@@ -1,6 +1,6 @@
 {
   "name": "jstransformer-typescript",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "TypeScript support for JSTransformers.",
   "keywords": [
     "jstransformer"
@@ -25,7 +25,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "extend": "^2.0.1",
-    "typescript": "^1.5.0-beta"
+    "extend-shallow": "^2.0.1",
+    "typescript": "^1.5.3"
   }
 }

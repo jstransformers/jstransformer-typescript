@@ -1,1 +1,1 @@
-let x: string  = 'string'
+let x: string  = 'Hello, World!'
