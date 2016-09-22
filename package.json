@@ -10,7 +10,7 @@
   ],
   "dependencies": {
     "extend-shallow": "^2.0.1",
-    "typescript": "^1.8.7"
+    "typescript": "^2.0.3"
   },
   "devDependencies": {
     "test-jstransformer": "^1.0.0"
