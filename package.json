@@ -1,6 +1,10 @@
 {
+  "dependencies": {
+    "extend-shallow": "^2.0.1",
+    "typescript": "^2.1.4"
+  },
   "name": "jstransformer-typescript",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "TypeScript support for JSTransformers.",
   "keywords": [
     "jstransformer"
@@ -8,19 +12,17 @@
   "files": [
     "index.js"
   ],
-  "dependencies": {
-    "extend-shallow": "^2.0.1",
-    "typescript": "^2.0.3"
-  },
   "devDependencies": {
-    "test-jstransformer": "^1.0.0"
+    "test-jstransformer": "^1.0.0",
+    "xo": "^0.17.1"
   },
   "scripts": {
     "coverage": "test-jstransformer coverage",
-    "test": "test-jstransformer"
+    "test": "test-jstransformer",
+    "posttest": "xo --space --no-semicolon index.js"
   },
   "engines": {
-    "node": ">= 4"
+    "node": ">=4"
   },
   "repository": {
     "type": "git",
