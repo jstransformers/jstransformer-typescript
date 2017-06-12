@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "extend-shallow": "^2.0.1",
-    "typescript": "^2.1.4"
+    "typescript": "^2.3.1"
   },
   "name": "jstransformer-typescript",
   "version": "1.1.0",
