@@ -1,13 +1,13 @@
 'use strict'
 
-var typescript = require('typescript')
-var extend = require('extend-shallow')
+const typescript = require('typescript')
+const extend = require('extend-shallow')
 
 exports.name = 'typescript'
 exports.inputFormats = ['ts', 'typescript']
 exports.outputFormat = 'js'
 
-var defaults = {
+const defaults = {
   module: typescript.ModuleKind.CommonJS
 }
 
