@@ -1,7 +1,5 @@
 # jstransformer-typescript
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/jstransformers/jstransformer-typescript.svg)](https://greenkeeper.io/)
-
 [typescript](http://example.com) support for [JSTransformers](http://github.com/jstransformers).
 
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-typescript/master.svg)](https://travis-ci.org/jstransformers/jstransformer-typescript)
