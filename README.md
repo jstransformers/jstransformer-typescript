@@ -5,7 +5,6 @@
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-typescript/master.svg)](https://travis-ci.org/jstransformers/jstransformer-typescript)
 [![Coverage Status](https://img.shields.io/codecov/c/github/jstransformers/jstransformer-typescript/master.svg)](https://codecov.io/gh/jstransformers/jstransformer-typescript)
 [![Dependency Status](https://img.shields.io/david/jstransformers/jstransformer-typescript/master.svg)](http://david-dm.org/jstransformers/jstransformer-typescript)
-
 [![NPM version](https://img.shields.io/npm/v/jstransformer-typescript.svg)](https://www.npmjs.org/package/jstransformer-typescript)
 
 ## Installation
