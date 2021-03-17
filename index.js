@@ -15,6 +15,6 @@ function getOptions(options, locals) {
   return extend({}, defaults, options, locals)
 }
 
-exports.render = function (str, options, locals) {
-  return typescript.transpile(str, getOptions(options, locals))
+exports.render = function (input, options, locals) {
+  return typescript.transpile(input, getOptions(options, locals))
 }

@@ -1,5 +1,10 @@
 # Changelog
 
+## v2.0.0: 2021-03-17
+
+- Update Boilerplate
+- Update TypeScript to `^4.2.3`
+
 ## v1.1.0: 2016-12-18
 
 - Update Boilerplate
